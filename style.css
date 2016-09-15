@@ -64,11 +64,13 @@ abbr {
 	}
 
 header h1 { 
-	background: transparent url(http://csszengarden.com/001/h1.gif) no-repeat top left;
+	background: transparent url(ops.gif) no-repeat top left;
+	background-size: 100px 100px;
 	margin-top: 10px;
+	left: 0px;
 	display: block;
-	width: 219px;
-	height: 87px;
+	width: 100px;
+	height: 100px;
 	float: left;
 
 	text-indent: 100%;
@@ -115,7 +117,6 @@ footer a:link, footer a:visited {
 	}
 .sidebar .wrapper { 
 	font: 10px verdana, sans-serif; 
-	background: transparent url("giphy.gif") top left repeat-y; 
 	padding: 10px; 
 	margin-top: 150px; 
 	width: 130px; 
@@ -173,10 +174,12 @@ footer a:link, footer a:visited {
 
 
 .extra1 {
-	background: transparent url(dance.gif) top left no-repeat; 
+	background: transparent url(dance.gif) top left no-repeat;
+	background-size: 120px 120px; 
 	position: absolute; 
-	top: 20px; 
-	right: 0; 
-	width: 350px; 
-	height: 497px;
+	top: 30px; 
+	right: 0px;
+	margin-right: 0px; 
+	width: 120px; 
+	height: 120px;
 	}
